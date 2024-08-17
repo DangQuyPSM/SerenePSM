@@ -1,0 +1,2 @@
+import{f as s,j as i}from"./chunk-7V7WNOD5.js";var r=s(i(),1),o;(t=>{let n;(e=>t.Texts=(0,r.proxyTexts)(e,"",{Db:{Administration:{Language:{},Role:{},RolePermission:{},Translation:{},User:{},UserPermission:{},UserRole:{}},Default:{Genre:{},Movie:{},Pfk7101:{}}},Forms:{Membership:{Login:{},SendActivation:{},SignUp:{}}},Navigation:{},Site:{AccessDenied:{},Layout:{},RolePermissionDialog:{},UserDialog:{},UserPermissionDialog:{},ValidationError:{}},Validation:{}}))(n=t.Texts||(t.Texts={}))})(o||(o={}));var c=o.Texts;export{c as a};
+//# sourceMappingURL=chunk-FJ355V3V.js.map
