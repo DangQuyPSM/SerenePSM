@@ -144,8 +144,8 @@ export interface Pfk7101Row {
 }
 
 export abstract class Pfk7101Row {
-    static readonly idProperty = 'CustomerCode';
-    static readonly nameProperty = 'CustomerCode';
+    static readonly idProperty = 'DevelopmentCode';
+    static readonly nameProperty = 'DevelopmentCode';
     static readonly localTextPrefix = 'Default.Pfk7101';
     static readonly deletePermission = 'Administration:General';
     static readonly insertPermission = 'Administration:General';
