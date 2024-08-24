@@ -11,14 +11,14 @@ public class Pfk7171Columns
 
     [Width(100), QuickFilter]
 
-    
+    public string BasicSel { get; set; }
     public string BasicCode { get; set; }
 
-    public string K7171_BasicSel { get; set; }
+
 
     public string BasicName { get; set; }
 
-    
+
     public string NameHlpButton { get; set; }
     public decimal DisplaySeq { get; set; }
     public string DevelopmentCode { get; set; }

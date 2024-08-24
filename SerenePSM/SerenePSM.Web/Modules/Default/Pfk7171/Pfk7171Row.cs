@@ -18,21 +18,22 @@ namespace SerenePSM.Default;
 public sealed class Pfk7171Row : Row<Pfk7171Row.RowFields>, IIdRow, INameRow
 {
     [LookupEditor(typeof(Pfk7171FilteredLookup), InplaceAdd = true, DialogType = "Default.Pfk7171")]
-    [DisplayName("Basic Code"), Column("K7171_BasicCode"), Size(3), NotNull, QuickSearch, IdProperty]
+
+    [DisplayName("Basic Sel"), Column("K7171_BasicSel"), Size(3), PrimaryKey, NotNull, QuickSearch]
+    public string BasicSel
+    {
+        get => fields.BasicSel[this];
+        set => fields.BasicSel[this] = value;
+    }
+    [DisplayName("Basic Code"), Column("K7171_BasicCode"), Size(3), NotNull, PrimaryKey, IdProperty]
     public string BasicCode { get => fields.BasicCode[this]; set => fields.BasicCode[this] = value; }
 
     [DisplayName("Basic Name"), Column("K7171_BasicName"), Size(250), NotNull, NameProperty]
     public string BasicName { get => fields.BasicName[this]; set => fields.BasicName[this] = value; }
 
-    //[DisplayName("Basic Sel"), Column("K7171_BasicSel"), Size(3), PrimaryKey, NotNull, Hidden]
-    //public string BasicSel { get => fields.BasicSel[this]; set => fields.BasicSel[this] = value; }
 
-    [DisplayName("Basic Sel"), Column("K7171_BasicSel"), Size(3), PrimaryKey, NotNull]
-    public string K7171_BasicSel
-    {
-        get => fields.K7171_BasicSel[this];
-        set => fields.K7171_BasicSel[this] = value;
-    }
+
+
 
 
     [DisplayName("Name Hlp Button"), Column("K7171_NameHLPButton"), Size(50)]
@@ -172,11 +173,11 @@ public sealed class Pfk7171Row : Row<Pfk7171Row.RowFields>, IIdRow, INameRow
 
     public class RowFields : RowFieldsBase
     {
-        
+
         public int UniqueId { get; set; }
-        
+
         public StringField BasicCode;
-        public StringField K7171_BasicSel;
+        public StringField BasicSel;
         public StringField NameHlpButton;
         public DecimalField DisplaySeq;
         public StringField DevelopmentCode;
@@ -243,7 +244,7 @@ public sealed class Pfk7171FilteredLookup : RowLookupScript<Pfk7171Row>
         query.Distinct(true)
              .Select(fld.BasicCode)  // Ensure this matches the field name
              .Select(fld.BasicName)
-             .Where(fld.K7171_BasicSel == "000"); // Use correct field name
+             .Where(fld.BasicSel == "000"); // Use correct field name
     }
 
 
@@ -257,22 +258,33 @@ public sealed class Pfk7171FilteredLookup : RowLookupScript<Pfk7171Row>
         query.OrderBy(fld.BasicCode);
     }
 
-
     protected override List<Pfk7171Row> GetItems()
     {
         var items = base.GetItems() as IEnumerable<Pfk7171Row>;
 
         if (items != null)
         {
-            var distinctItems = items
-                .GroupBy(x => new { x.BasicCode, x.BasicName })
-                .Select(g => g.First())
-                .ToList();
+            // If the BasicCode filter is applied, filter the items here
+            var basicCode = GetFilterValue("BasicCode"); // Custom method to get filter value
 
-            return distinctItems;
+            if (!string.IsNullOrEmpty(basicCode))
+            {
+                items = items.Where(x => x.BasicSel == basicCode);
+            }
+
+            return items.ToList();
         }
 
         return new List<Pfk7171Row>();
+    }
+
+    // Custom method to retrieve filter values
+    private string GetFilterValue(string key)
+    {
+        // Retrieve filter values from the context (if available)
+        // This method might need to be adapted based on your implementation
+        // Here it is just a placeholder
+        return "";
     }
 }
 
