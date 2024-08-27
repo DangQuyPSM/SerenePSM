@@ -3,8 +3,8 @@ import { Column } from "@serenity-is/sleekgrid";
 import { Pfk7171Row } from "./Pfk7171Row";
 
 export interface Pfk7171Columns {
+    BasicSel: Column<Pfk7171Row>;
     BasicCode: Column<Pfk7171Row>;
-    K7171_BasicSel: Column<Pfk7171Row>;
     BasicName: Column<Pfk7171Row>;
     NameHlpButton: Column<Pfk7171Row>;
     DisplaySeq: Column<Pfk7171Row>;

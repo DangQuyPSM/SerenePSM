@@ -10166,11 +10166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\SerenePSM.Web.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\SerenePSM.Web.csproj",
       "projectName": "SerenePSM.Web",
-      "projectPath": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\SerenePSM.Web.csproj",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\SerenePSM.Web.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

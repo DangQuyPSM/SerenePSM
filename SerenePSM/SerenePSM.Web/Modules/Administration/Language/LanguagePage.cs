@@ -1,4 +1,4 @@
-﻿namespace SerenePSM.Administration.Pages;
+namespace SerenePSM.Administration.Pages;
 
 [PageAuthorize(typeof(LanguageRow))]
 public class LanguagePage : Controller

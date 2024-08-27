@@ -31,9 +31,9 @@ public sealed class Pfk7171Row : Row<Pfk7171Row.RowFields>, IIdRow, INameRow
     [DisplayName("Basic Name"), Column("K7171_BasicName"), Size(250), NotNull, NameProperty]
     public string BasicName { get => fields.BasicName[this]; set => fields.BasicName[this] = value; }
 
+    
 
-
-
+    
 
 
     [DisplayName("Name Hlp Button"), Column("K7171_NameHLPButton"), Size(50)]
@@ -173,9 +173,9 @@ public sealed class Pfk7171Row : Row<Pfk7171Row.RowFields>, IIdRow, INameRow
 
     public class RowFields : RowFieldsBase
     {
-
+        
         public int UniqueId { get; set; }
-
+        
         public StringField BasicCode;
         public StringField BasicSel;
         public StringField NameHlpButton;

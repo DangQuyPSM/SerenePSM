@@ -236,6 +236,280 @@ namespace SerenePSM.Texts {
                 export const VisAllName1: string;
             }
 
+            namespace Pfk7103 {
+                export const AmtAllowance: string;
+                export const Autokey: string;
+                export const CdComponentType: string;
+                export const CdSite: string;
+                export const CdTypeCode: string;
+                export const CheckComplete: string;
+                export const CheckUse: string;
+                export const CustomerCode: string;
+                export const DateInsert: string;
+                export const DateUpdate: string;
+                export const InchargeInsert: string;
+                export const InchargeUpdate: string;
+                export const PreFix: string;
+                export const QtyBatchS: string;
+                export const QtyDay: string;
+                export const QtyDayS: string;
+                export const QtyMan: string;
+                export const Remark: string;
+                export const SeComponentType: string;
+                export const SeSite: string;
+                export const SeTypeCode: string;
+                export const Standard: string;
+                export const Standard1: string;
+                export const Standard2: string;
+                export const Standard3: string;
+                export const Standard4: string;
+                export const Standard5: string;
+                export const TypeCode: string;
+                export const TypeName: string;
+                export const TypeNameRelation: string;
+                export const TypeSimpleName: string;
+                export const ValueType1: string;
+            }
+
+            namespace Pfk7104 {
+                export const CdGender: string;
+                export const CdSeason: string;
+                export const CdSite: string;
+                export const CdSizeGroup: string;
+                export const CheckComplete: string;
+                export const CheckUse: string;
+                export const CustomerCode: string;
+                export const DateInsert: string;
+                export const DateUpdate: string;
+                export const InchargeInsert: string;
+                export const InchargeUpdate: string;
+                export const Remark: string;
+                export const SeGender: string;
+                export const SeSeason: string;
+                export const SeSite: string;
+                export const SeSizeGroup: string;
+                export const Size01: string;
+                export const Size02: string;
+                export const Size03: string;
+                export const Size04: string;
+                export const Size05: string;
+                export const Size06: string;
+                export const Size07: string;
+                export const Size08: string;
+                export const Size09: string;
+                export const Size10: string;
+                export const Size11: string;
+                export const Size12: string;
+                export const Size13: string;
+                export const Size14: string;
+                export const Size15: string;
+                export const Size16: string;
+                export const Size17: string;
+                export const Size18: string;
+                export const Size19: string;
+                export const Size20: string;
+                export const Size21: string;
+                export const Size22: string;
+                export const Size23: string;
+                export const Size24: string;
+                export const Size25: string;
+                export const Size26: string;
+                export const Size27: string;
+                export const Size28: string;
+                export const Size29: string;
+                export const Size30: string;
+                export const SizeAverage01: string;
+                export const SizeAverage02: string;
+                export const SizeAverage03: string;
+                export const SizeAverage04: string;
+                export const SizeAverage05: string;
+                export const SizeRange: string;
+                export const SizeRangeName: string;
+                export const SizeRangeSimpleName: string;
+            }
+
+            namespace Pfk7105 {
+                export const CdGender: string;
+                export const CdSeason: string;
+                export const CdSite: string;
+                export const CdSizeGroup: string;
+                export const CheckComplete: string;
+                export const CheckUse: string;
+                export const CustomerCode: string;
+                export const DateInsert: string;
+                export const DateUpdate: string;
+                export const InchargeInsert: string;
+                export const InchargeUpdate: string;
+                export const Remark: string;
+                export const SeGender: string;
+                export const SeSeason: string;
+                export const SeSite: string;
+                export const SeSizeGroup: string;
+                export const Size01: string;
+                export const Size02: string;
+                export const Size03: string;
+                export const Size04: string;
+                export const Size05: string;
+                export const Size06: string;
+                export const Size07: string;
+                export const Size08: string;
+                export const Size09: string;
+                export const Size10: string;
+                export const Size11: string;
+                export const Size12: string;
+                export const Size13: string;
+                export const Size14: string;
+                export const Size15: string;
+                export const Size16: string;
+                export const Size17: string;
+                export const Size18: string;
+                export const Size19: string;
+                export const Size20: string;
+                export const Size21: string;
+                export const Size22: string;
+                export const Size23: string;
+                export const Size24: string;
+                export const Size25: string;
+                export const Size26: string;
+                export const Size27: string;
+                export const Size28: string;
+                export const Size29: string;
+                export const Size30: string;
+                export const SizeAverage01: string;
+                export const SizeAverage02: string;
+                export const SizeAverage03: string;
+                export const SizeAverage04: string;
+                export const SizeAverage05: string;
+                export const SizeRangeTool: string;
+                export const SizeRangeToolName: string;
+                export const SizeRangeToolSimpleName: string;
+            }
+
+            namespace Pfk7106 {
+                export const Article: string;
+                export const BackColor: string;
+                export const CdGender: string;
+                export const CdProductSize: string;
+                export const CdProductType: string;
+                export const CdSeason: string;
+                export const CdSite: string;
+                export const CdSpecState: string;
+                export const CheckBom: string;
+                export const CheckCbd: string;
+                export const CheckComplete: string;
+                export const CheckCon: string;
+                export const CheckFb: string;
+                export const CheckParent: string;
+                export const CheckSameMold: string;
+                export const CheckUse: string;
+                export const ColorCode: string;
+                export const ColorName: string;
+                export const CustSpecNo: string;
+                export const CustSpecNo1: string;
+                export const Customercode: string;
+                export const CuttingDieCode: string;
+                export const DateBomCom: string;
+                export const DateBomUn: string;
+                export const DateCbdCom: string;
+                export const DateCbdUn: string;
+                export const DateComplete: string;
+                export const DateCompleteUn: string;
+                export const DateConCom: string;
+                export const DateConUn: string;
+                export const DateExchangePrice: string;
+                export const DateInsert: string;
+                export const DateLable1: string;
+                export const DateLable2: string;
+                export const DateLable3: string;
+                export const DateUpdate: string;
+                export const ExchangePrice: string;
+                export const InchargeBomCom: string;
+                export const InchargeBomI: string;
+                export const InchargeBomU: string;
+                export const InchargeBomUn: string;
+                export const InchargeCbdCom: string;
+                export const InchargeCbdI: string;
+                export const InchargeCbdU: string;
+                export const InchargeCbdUn: string;
+                export const InchargeComplete: string;
+                export const InchargeCompleteUn: string;
+                export const InchargeConCom: string;
+                export const InchargeConI: string;
+                export const InchargeConU: string;
+                export const InchargeConUn: string;
+                export const InchargeDesigner: string;
+                export const InchargeInsert: string;
+                export const InchargeStep1: string;
+                export const InchargeStep2: string;
+                export const InchargeStep3: string;
+                export const InchargeUpdate: string;
+                export const InsoleCode: string;
+                export const InsoleColor: string;
+                export const LastCode: string;
+                export const LastQty: string;
+                export const LastWidth: string;
+                export const Line: string;
+                export const LogoCode: string;
+                export const LogoColor: string;
+                export const LogoColorCode: string;
+                export const Mcode: string;
+                export const McodeName: string;
+                export const MidSoleCode: string;
+                export const MidsoleColor: string;
+                export const MoldCode: string;
+                export const MoldQty: string;
+                export const MoldSpec: string;
+                export const Note0: string;
+                export const Note1: string;
+                export const Note10: string;
+                export const Note2: string;
+                export const Note3: string;
+                export const Note4: string;
+                export const Note5: string;
+                export const Note6: string;
+                export const Note7: string;
+                export const Note8: string;
+                export const Note9: string;
+                export const OutsoleCode: string;
+                export const OutsoleColor: string;
+                export const OutsoleColorCode: string;
+                export const PriceUsd: string;
+                export const PriceVnd: string;
+                export const ProductCode: string;
+                export const QtyAverage: string;
+                export const QtyAverage1: string;
+                export const QtyAverage2: string;
+                export const QtyAverage3: string;
+                export const Remark: string;
+                export const SeGender: string;
+                export const SeProductSize: string;
+                export const SeProductType: string;
+                export const SeSeason: string;
+                export const SeSite: string;
+                export const SeSpecState: string;
+                export const ShoesCode: string;
+                export const ShoesCodeBase: string;
+                export const ShoesParent: string;
+                export const SizeRange: string;
+                export const SpeciticSize: string;
+                export const Style: string;
+                export const Szno: string;
+                export const TexonCode: string;
+                export const TexonColor: string;
+                export const TimeBomCom: string;
+                export const TimeCbdCom: string;
+                export const TimeComplete: string;
+                export const TimeConCom: string;
+                export const TimeInsert: string;
+                export const TimeUpdate: string;
+                export const VerAll: string;
+                export const VerBom: string;
+                export const VerCbd: string;
+                export const VerJob: string;
+                export const VerRot: string;
+                export const VerSam: string;
+            }
+
             namespace Pfk7121 {
                 export const CdColorBase: string;
                 export const CdColorCategory: string;
@@ -259,9 +533,52 @@ namespace SerenePSM.Texts {
                 export const SeSite: string;
             }
 
+            namespace Pfk7155 {
+                export const AccCode: string;
+                export const CdFactory: string;
+                export const CdMachineType: string;
+                export const CdSite: string;
+                export const CdSubProcess: string;
+                export const ChecK1: string;
+                export const Check2: string;
+                export const CheckApplyLiquid: string;
+                export const CheckFinalProcess: string;
+                export const CheckProcess: string;
+                export const CheckUse: string;
+                export const DevelopmentCode: string;
+                export const DisplaySeq: string;
+                export const GroupMachine: string;
+                export const HorizontalPosition: string;
+                export const MachineCapacity: string;
+                export const MachineCode: string;
+                export const MachineName: string;
+                export const MachineNameSimply: string;
+                export const MachineRpm: string;
+                export const Model: string;
+                export const RateGlauberSalt1: string;
+                export const RateGlauberSalt2: string;
+                export const RateGlauberSalt3: string;
+                export const RateLiquid: string;
+                export const RateSoda1: string;
+                export const RateSoda2: string;
+                export const RateSoda3: string;
+                export const Remark: string;
+                export const RotationDayProduction: string;
+                export const RotationOnceProduction: string;
+                export const RotationOnceTimeProduction: string;
+                export const SeFactory: string;
+                export const SeMachineType: string;
+                export const SeSite: string;
+                export const SeSubProcess: string;
+                export const TagNo: string;
+                export const VerticalPosition: string;
+                export const Wdcpmdtc: string;
+            }
+
             namespace Pfk7171 {
                 export const BasicCode: string;
                 export const BasicName: string;
+                export const BasicSel: string;
                 export const CdBasicMaster: string;
                 export const CdSite: string;
                 export const Check1: string;
@@ -294,7 +611,6 @@ namespace SerenePSM.Texts {
                 export const ForeignName2: string;
                 export const InchargeInsert: string;
                 export const InchargeUpdate: string;
-                export const K7171_BasicSel: string;
                 export const KeyDm: string;
                 export const NameHlpButton: string;
                 export const NameSimply: string;
@@ -673,7 +989,12 @@ namespace SerenePSM.Texts {
                 Genre: {},
                 Movie: {},
                 Pfk7101: {},
+                Pfk7103: {},
+                Pfk7104: {},
+                Pfk7105: {},
+                Pfk7106: {},
                 Pfk7121: {},
+                Pfk7155: {},
                 Pfk7171: {},
                 Pfk7231: {},
                 Pfk7411: {}

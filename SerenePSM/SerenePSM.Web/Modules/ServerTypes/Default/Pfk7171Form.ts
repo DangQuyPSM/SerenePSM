@@ -1,8 +1,7 @@
-﻿import { Pfk7171Dialog } from "@/Default/Pfk7171/Pfk7171Dialog";
-import { LookupEditor, StringEditor, DecimalEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
+﻿import { StringEditor, DecimalEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
 
 export interface Pfk7171Form {
-    BasicCode: LookupEditor;
+    BasicCode: StringEditor;
     NameHlpButton: StringEditor;
     DisplaySeq: DecimalEditor;
     DevelopmentCode: StringEditor;
@@ -60,60 +59,57 @@ export class Pfk7171Form extends PrefixedContext {
         if (!Pfk7171Form.init)  {
             Pfk7171Form.init = true;
 
-            var w0 = LookupEditor;
-            var w1 = StringEditor;
-            var w2 = DecimalEditor;
+            var w0 = StringEditor;
+            var w1 = DecimalEditor;
 
             initFormType(Pfk7171Form, [
                 'BasicCode', w0,
-                'NameHlpButton', w1,
-                'DisplaySeq', w2,
-                'DevelopmentCode', w1,
-                'SeBasicMaster', w1,
-                'CdBasicMaster', w1,
-                'BasicName', w1,
-                'NameSimply', w1,
-                'ForeignName1', w1,
-                'ForeignName2', w1,
-                'Check1', w1,
-                'Check2', w1,
-                'Check3', w1,
-                'Check4', w1,
-                'Check5', w1,
-                'Check6', w1,
-                'Check7', w1,
-                'Check8', w1,
-                'Check9', w1,
-                'Check10', w1,
-                'CheckName1', w1,
-                'CheckName2', w1,
-                'CheckName3', w1,
-                'CheckName4', w1,
-                'CheckName5', w1,
-                'CheckName6', w1,
-                'CheckName7', w1,
-                'CheckName8', w1,
-                'CheckName9', w1,
-                'CheckName10', w1,
-                'InchargeInsert', w1,
-                'InchargeUpdate', w1,
-                'DateInsert', w1,
-                'DateUpdate', w1,
-                'TimeInsert', w1,
-                'TimeUpdate', w1,
-                'TimeLast', w1,
-                'CheckSync', w1,
-                'CheckUse', w1,
-                'TableAcc', w1,
-                'TypeDm', w1,
-                'KeyDm', w1,
-                'ValueDm', w1,
-                'Remark', w1,
-                'SeSite', w1,
-                'CdSite', w1
+                'NameHlpButton', w0,
+                'DisplaySeq', w1,
+                'DevelopmentCode', w0,
+                'SeBasicMaster', w0,
+                'CdBasicMaster', w0,
+                'BasicName', w0,
+                'NameSimply', w0,
+                'ForeignName1', w0,
+                'ForeignName2', w0,
+                'Check1', w0,
+                'Check2', w0,
+                'Check3', w0,
+                'Check4', w0,
+                'Check5', w0,
+                'Check6', w0,
+                'Check7', w0,
+                'Check8', w0,
+                'Check9', w0,
+                'Check10', w0,
+                'CheckName1', w0,
+                'CheckName2', w0,
+                'CheckName3', w0,
+                'CheckName4', w0,
+                'CheckName5', w0,
+                'CheckName6', w0,
+                'CheckName7', w0,
+                'CheckName8', w0,
+                'CheckName9', w0,
+                'CheckName10', w0,
+                'InchargeInsert', w0,
+                'InchargeUpdate', w0,
+                'DateInsert', w0,
+                'DateUpdate', w0,
+                'TimeInsert', w0,
+                'TimeUpdate', w0,
+                'TimeLast', w0,
+                'CheckSync', w0,
+                'CheckUse', w0,
+                'TableAcc', w0,
+                'TypeDm', w0,
+                'KeyDm', w0,
+                'ValueDm', w0,
+                'Remark', w0,
+                'SeSite', w0,
+                'CdSite', w0
             ]);
         }
     }
 }
-
-[Pfk7171Dialog]; // referenced types

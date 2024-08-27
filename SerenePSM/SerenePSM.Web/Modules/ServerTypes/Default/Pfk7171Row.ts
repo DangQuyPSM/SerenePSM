@@ -2,7 +2,7 @@
 
 export interface Pfk7171Row {
     BasicCode?: string;
-    K7171_BasicSel?: string;
+    BasicSel?: string;
     NameHlpButton?: string;
     DisplaySeq?: number;
     DevelopmentCode?: string;
