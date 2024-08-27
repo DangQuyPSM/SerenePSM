@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OXxJ1/sUVE8/qHdtSUzYj25ST2XIZPRNJtHzq6lpuac=",
+  "Hash": "VcFhZXCbXpvg+LZkgygNuwQ9f5cZ2N017fXqn/Ku0Eg=",
   "Source": "SerenePSM.Web",
   "BasePath": "_content/SerenePSM.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SerenePSM.Web\\wwwroot",
       "Source": "SerenePSM.Web",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "Pattern": "**"
     }
@@ -6135,10 +6135,10 @@
       "OriginalItemSpec": "C:\\Users\\MSI\\.nuget\\packages\\serenity.sleekgrid\\1.8.8\\staticwebassets\\index.global.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\32px.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\32px.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/32px.png",
       "AssetKind": "All",
@@ -6154,10 +6154,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\32px.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\alarm-clock.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\alarm-clock.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/alarm-clock.png",
       "AssetKind": "All",
@@ -6173,10 +6173,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\alarm-clock.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\application-resize-actual.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\application-resize-actual.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/application-resize-actual.png",
       "AssetKind": "All",
@@ -6192,10 +6192,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\application-resize-actual.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\application-resize-full.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\application-resize-full.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/application-resize-full.png",
       "AssetKind": "All",
@@ -6211,10 +6211,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\application-resize-full.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-circle-135.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-circle-135.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/arrow-circle-135.png",
       "AssetKind": "All",
@@ -6230,10 +6230,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\arrow-circle-135.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-curve-left.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-curve-left.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/arrow-curve-left.png",
       "AssetKind": "All",
@@ -6249,10 +6249,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\arrow-curve-left.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-down.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-down.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/arrow-down.png",
       "AssetKind": "All",
@@ -6268,10 +6268,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\arrow-down.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-step-over.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\arrow-step-over.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/arrow-step-over.png",
       "AssetKind": "All",
@@ -6287,10 +6287,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\arrow-step-over.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\back-arrow-white.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\back-arrow-white.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/back-arrow-white.png",
       "AssetKind": "All",
@@ -6306,10 +6306,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\back-arrow-white.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\balance.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\balance.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/balance.png",
       "AssetKind": "All",
@@ -6325,10 +6325,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\balance.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\bomb.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\bomb.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/bomb.png",
       "AssetKind": "All",
@@ -6344,10 +6344,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\bomb.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\box.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\box.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/box.png",
       "AssetKind": "All",
@@ -6363,10 +6363,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\box.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\calculator3.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\calculator3.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/calculator3.png",
       "AssetKind": "All",
@@ -6382,10 +6382,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\calculator3.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\calendar-blue.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\calendar-blue.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/calendar-blue.png",
       "AssetKind": "All",
@@ -6401,10 +6401,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\calendar-blue.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\check2.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\check2.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/check2.png",
       "AssetKind": "All",
@@ -6420,10 +6420,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\check2.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-no.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-no.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/checkbox-no.png",
       "AssetKind": "All",
@@ -6439,10 +6439,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\checkbox-no.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-null.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-null.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/checkbox-null.png",
       "AssetKind": "All",
@@ -6458,10 +6458,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\checkbox-null.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-states.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-states.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/checkbox-states.png",
       "AssetKind": "All",
@@ -6477,10 +6477,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\checkbox-states.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-yes.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\checkbox-yes.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/checkbox-yes.png",
       "AssetKind": "All",
@@ -6496,10 +6496,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\checkbox-yes.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\clock.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\clock.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/clock.png",
       "AssetKind": "All",
@@ -6515,10 +6515,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\clock.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\cross.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\cross.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/cross.png",
       "AssetKind": "All",
@@ -6534,10 +6534,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\cross.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\cross-script.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\cross-script.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/cross-script.png",
       "AssetKind": "All",
@@ -6553,10 +6553,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\cross-script.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\csv.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\csv.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/csv.png",
       "AssetKind": "All",
@@ -6572,10 +6572,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\csv.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\data-sync.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\data-sync.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/data-sync.png",
       "AssetKind": "All",
@@ -6591,10 +6591,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\data-sync.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\delete.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\delete.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/delete.png",
       "AssetKind": "All",
@@ -6610,10 +6610,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\delete.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\delete2.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\delete2.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/delete2.png",
       "AssetKind": "All",
@@ -6629,10 +6629,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\delete2.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\document-copy.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\document-copy.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/document-copy.png",
       "AssetKind": "All",
@@ -6648,10 +6648,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\document-copy.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\document-task.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\document-task.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/document-task.png",
       "AssetKind": "All",
@@ -6667,10 +6667,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\document-task.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\docx.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\docx.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/docx.png",
       "AssetKind": "All",
@@ -6686,10 +6686,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\docx.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\down.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\down.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/down.gif",
       "AssetKind": "All",
@@ -6705,10 +6705,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\down.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\dropdown.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\dropdown.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/dropdown.png",
       "AssetKind": "All",
@@ -6724,10 +6724,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\dropdown.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\edit.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\edit.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/edit.png",
       "AssetKind": "All",
@@ -6743,10 +6743,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\edit.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\eraser.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\eraser.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/eraser.png",
       "AssetKind": "All",
@@ -6762,10 +6762,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\eraser.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\eraser-plus.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\eraser-plus.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/eraser-plus.png",
       "AssetKind": "All",
@@ -6781,10 +6781,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\eraser-plus.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\folder-import.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\folder-import.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/folder-import.png",
       "AssetKind": "All",
@@ -6800,10 +6800,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\folder-import.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\full-screen-2.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\full-screen-2.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/full-screen-2.png",
       "AssetKind": "All",
@@ -6819,10 +6819,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\full-screen-2.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\gtk-print-preview.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\gtk-print-preview.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/gtk-print-preview.png",
       "AssetKind": "All",
@@ -6838,10 +6838,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\gtk-print-preview.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\header-columns-bg.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\header-columns-bg.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/header-columns-bg.gif",
       "AssetKind": "All",
@@ -6857,10 +6857,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\header-columns-bg.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\header-columns-over-bg.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\header-columns-over-bg.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/header-columns-over-bg.gif",
       "AssetKind": "All",
@@ -6876,10 +6876,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\header-columns-over-bg.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\icon_sprite.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\icon_sprite.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/icon_sprite.png",
       "AssetKind": "All",
@@ -6895,10 +6895,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\icon_sprite.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\loading.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\loading.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/loading.gif",
       "AssetKind": "All",
@@ -6914,10 +6914,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\lock.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\lock.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/lock.png",
       "AssetKind": "All",
@@ -6933,10 +6933,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\lock.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\magnifier.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\magnifier.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/magnifier.png",
       "AssetKind": "All",
@@ -6952,10 +6952,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\magnifier.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\magnifier-left.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\magnifier-left.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/magnifier-left.png",
       "AssetKind": "All",
@@ -6971,10 +6971,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\magnifier-left.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\mail.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\mail.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/mail.png",
       "AssetKind": "All",
@@ -6990,10 +6990,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\mail.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\maximize-button.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\maximize-button.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/maximize-button.png",
       "AssetKind": "All",
@@ -7009,10 +7009,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\maximize-button.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\mhtml.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\mhtml.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/mhtml.png",
       "AssetKind": "All",
@@ -7028,10 +7028,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\mhtml.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\money.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\money.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/money.png",
       "AssetKind": "All",
@@ -7047,10 +7047,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\money.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\node-insert-next.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\node-insert-next.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/node-insert-next.png",
       "AssetKind": "All",
@@ -7066,10 +7066,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\node-insert-next.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\node-select-all.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\node-select-all.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/node-select-all.png",
       "AssetKind": "All",
@@ -7085,10 +7085,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\node-select-all.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\ok.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\ok.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/ok.png",
       "AssetKind": "All",
@@ -7104,10 +7104,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\ok.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\outlook.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\outlook.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/outlook.png",
       "AssetKind": "All",
@@ -7123,10 +7123,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\outlook.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\pager-load.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\pager-load.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/pager-load.gif",
       "AssetKind": "All",
@@ -7142,10 +7142,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\pager-load.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\paper-clip.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\paper-clip.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/paper-clip.png",
       "AssetKind": "All",
@@ -7161,10 +7161,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\paper-clip.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\pencil.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\pencil.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/pencil.png",
       "AssetKind": "All",
@@ -7180,10 +7180,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\pencil.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\quick-search-loading.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\quick-search-loading.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/quick-search-loading.gif",
       "AssetKind": "All",
@@ -7199,10 +7199,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\quick-search-loading.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\slash.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\slash.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/slash.png",
       "AssetKind": "All",
@@ -7218,10 +7218,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\slash.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\spreadsheet.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\spreadsheet.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/spreadsheet.png",
       "AssetKind": "All",
@@ -7237,10 +7237,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\spreadsheet.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\star-pencil.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\star-pencil.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/star-pencil.png",
       "AssetKind": "All",
@@ -7256,10 +7256,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\star-pencil.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\sticky-note-plus.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\sticky-note-plus.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/sticky-note-plus.png",
       "AssetKind": "All",
@@ -7275,10 +7275,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\sticky-note-plus.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\store.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\store.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/store.png",
       "AssetKind": "All",
@@ -7294,10 +7294,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\store.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\table.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\table.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/table.png",
       "AssetKind": "All",
@@ -7313,10 +7313,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\table.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tag-label.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tag-label.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/tag-label.png",
       "AssetKind": "All",
@@ -7332,10 +7332,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\tag-label.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\thumb-file-72.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\thumb-file-72.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/thumb-file-72.png",
       "AssetKind": "All",
@@ -7351,10 +7351,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\thumb-file-72.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-empty.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-empty.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/tick-empty.png",
       "AssetKind": "All",
@@ -7370,10 +7370,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\tick-empty.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-green.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-green.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/tick-green.png",
       "AssetKind": "All",
@@ -7389,10 +7389,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\tick-green.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-red.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\tick-red.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/tick-red.png",
       "AssetKind": "All",
@@ -7408,10 +7408,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\tick-red.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\toggle.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\toggle.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/toggle.png",
       "AssetKind": "All",
@@ -7427,10 +7427,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\toggle.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\toggle-expand.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\toggle-expand.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/toggle-expand.png",
       "AssetKind": "All",
@@ -7446,10 +7446,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\toggle-expand.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\trash.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\trash.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/trash.png",
       "AssetKind": "All",
@@ -7465,10 +7465,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\trash.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unchecked.gif",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unchecked.gif",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/unchecked.gif",
       "AssetKind": "All",
@@ -7484,10 +7484,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\unchecked.gif"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\universal.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\universal.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/universal.png",
       "AssetKind": "All",
@@ -7503,10 +7503,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\universal.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unlock.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unlock.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/unlock.png",
       "AssetKind": "All",
@@ -7522,10 +7522,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\unlock.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unlock-disable.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\unlock-disable.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/unlock-disable.png",
       "AssetKind": "All",
@@ -7541,10 +7541,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\unlock-disable.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\users.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\users.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/users.png",
       "AssetKind": "All",
@@ -7560,10 +7560,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\users.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\wand-plus.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\wand-plus.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/wand-plus.png",
       "AssetKind": "All",
@@ -7579,10 +7579,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\wand-plus.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\wheel.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\wheel.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/wheel.png",
       "AssetKind": "All",
@@ -7598,10 +7598,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\wheel.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\xml.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\xml.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/xml.png",
       "AssetKind": "All",
@@ -7617,10 +7617,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\xml.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\zoom.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\serenity\\images\\zoom.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/serenity/images/zoom.png",
       "AssetKind": "All",
@@ -7636,10 +7636,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\serenity\\images\\zoom.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\accordion-arrows.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\accordion-arrows.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/accordion-arrows.png",
       "AssetKind": "All",
@@ -7655,10 +7655,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\accordion-arrows.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-40.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-40.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/serenity-logo-40.png",
       "AssetKind": "All",
@@ -7674,10 +7674,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\serenity-logo-40.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-g-40.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-g-40.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/serenity-logo-g-40.png",
       "AssetKind": "All",
@@ -7693,10 +7693,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\serenity-logo-g-40.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-128.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-128.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/serenity-logo-w-128.png",
       "AssetKind": "All",
@@ -7712,10 +7712,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\serenity-logo-w-128.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-40.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\serenity-logo-w-40.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/serenity-logo-w-40.png",
       "AssetKind": "All",
@@ -7731,10 +7731,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\serenity-logo-w-40.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-empty.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-empty.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/tick-empty.png",
       "AssetKind": "All",
@@ -7750,10 +7750,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\tick-empty.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-green-partial.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-green-partial.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/tick-green-partial.png",
       "AssetKind": "All",
@@ -7769,10 +7769,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\tick-green-partial.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-red-partial.png",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\images\\tick-red-partial.png",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/images/tick-red-partial.png",
       "AssetKind": "All",
@@ -7788,10 +7788,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\images\\tick-red-partial.png"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\site.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\site.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/site.css",
       "AssetKind": "All",
@@ -7807,10 +7807,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\site.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\site.htmlcontent.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Content\\site\\site.htmlcontent.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Content/site/site.htmlcontent.css",
       "AssetKind": "All",
@@ -7826,10 +7826,10 @@
       "OriginalItemSpec": "wwwroot\\Content\\site\\site.htmlcontent.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-7V7WNOD5.js",
       "AssetKind": "All",
@@ -7845,10 +7845,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-7V7WNOD5.js.map",
       "AssetKind": "All",
@@ -7864,10 +7864,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-7V7WNOD5.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-BUQZCNCY.js",
       "AssetKind": "All",
@@ -7883,10 +7883,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-BUQZCNCY.js.map",
       "AssetKind": "All",
@@ -7902,10 +7902,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-BUQZCNCY.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-CE3VCANS.js",
       "AssetKind": "All",
@@ -7921,10 +7921,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-CE3VCANS.js.map",
       "AssetKind": "All",
@@ -7940,10 +7940,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-CE3VCANS.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-O7VQBGVQ.js",
       "AssetKind": "All",
@@ -7959,10 +7959,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-O7VQBGVQ.js.map",
       "AssetKind": "All",
@@ -7978,10 +7978,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-O7VQBGVQ.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-XIQQ2G2N.js",
       "AssetKind": "All",
@@ -7997,10 +7997,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-XIQQ2G2N.js.map",
       "AssetKind": "All",
@@ -8016,10 +8016,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-XIQQ2G2N.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-YYAOSOJ2.js",
       "AssetKind": "All",
@@ -8035,10 +8035,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/_chunks/chunk-YYAOSOJ2.js.map",
       "AssetKind": "All",
@@ -8054,10 +8054,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\_chunks\\chunk-YYAOSOJ2.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Language/LanguagePage.js",
       "AssetKind": "All",
@@ -8073,10 +8073,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Language/LanguagePage.js.map",
       "AssetKind": "All",
@@ -8092,10 +8092,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Language\\LanguagePage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Role/RolePage.js",
       "AssetKind": "All",
@@ -8111,10 +8111,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Role/RolePage.js.map",
       "AssetKind": "All",
@@ -8130,10 +8130,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Role\\RolePage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Translation/TranslationPage.js",
       "AssetKind": "All",
@@ -8149,10 +8149,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/Translation/TranslationPage.js.map",
       "AssetKind": "All",
@@ -8168,10 +8168,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\Translation\\TranslationPage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/User/UserPage.js",
       "AssetKind": "All",
@@ -8187,10 +8187,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Administration/User/UserPage.js.map",
       "AssetKind": "All",
@@ -8206,10 +8206,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Administration\\User\\UserPage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Common\\ScriptInit.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Common\\ScriptInit.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Common/ScriptInit.js",
       "AssetKind": "All",
@@ -8225,10 +8225,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Common\\ScriptInit.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Common\\ScriptInit.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Common\\ScriptInit.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Common/ScriptInit.js.map",
       "AssetKind": "All",
@@ -8244,10 +8244,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Common\\ScriptInit.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Genre/GenrePage.js",
       "AssetKind": "All",
@@ -8263,10 +8263,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Genre/GenrePage.js.map",
       "AssetKind": "All",
@@ -8282,10 +8282,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Genre\\GenrePage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Movie/MoviePage.js",
       "AssetKind": "All",
@@ -8301,10 +8301,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Movie/MoviePage.js.map",
       "AssetKind": "All",
@@ -8320,10 +8320,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Movie\\MoviePage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7101/Pfk7101Page.js",
       "AssetKind": "All",
@@ -8339,10 +8339,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7101/Pfk7101Page.js.map",
       "AssetKind": "All",
@@ -8358,10 +8358,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7101\\Pfk7101Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7103/Pfk7103Page.js",
       "AssetKind": "All",
@@ -8377,10 +8377,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7103/Pfk7103Page.js.map",
       "AssetKind": "All",
@@ -8396,10 +8396,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7103\\Pfk7103Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7104/Pfk7104Page.js",
       "AssetKind": "All",
@@ -8415,10 +8415,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7104/Pfk7104Page.js.map",
       "AssetKind": "All",
@@ -8434,10 +8434,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7104\\Pfk7104Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7105/Pfk7105Page.js",
       "AssetKind": "All",
@@ -8453,10 +8453,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7105/Pfk7105Page.js.map",
       "AssetKind": "All",
@@ -8472,10 +8472,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7105\\Pfk7105Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7106/Pfk7106Page.js",
       "AssetKind": "All",
@@ -8491,10 +8491,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7106/Pfk7106Page.js.map",
       "AssetKind": "All",
@@ -8510,10 +8510,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7106\\Pfk7106Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7121/Pfk7121Page.js",
       "AssetKind": "All",
@@ -8529,10 +8529,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7121/Pfk7121Page.js.map",
       "AssetKind": "All",
@@ -8548,10 +8548,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7121\\Pfk7121Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7155/Pfk7155Page.js",
       "AssetKind": "All",
@@ -8567,10 +8567,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7155/Pfk7155Page.js.map",
       "AssetKind": "All",
@@ -8586,10 +8586,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7155\\Pfk7155Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7171/Pfk7171Page.js",
       "AssetKind": "All",
@@ -8605,10 +8605,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7171/Pfk7171Page.js.map",
       "AssetKind": "All",
@@ -8624,10 +8624,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7171\\Pfk7171Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7231/Pfk7231Page.js",
       "AssetKind": "All",
@@ -8643,10 +8643,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7231/Pfk7231Page.js.map",
       "AssetKind": "All",
@@ -8662,10 +8662,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7231\\Pfk7231Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7411/Pfk7411Page.js",
       "AssetKind": "All",
@@ -8681,10 +8681,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Default/Pfk7411/Pfk7411Page.js.map",
       "AssetKind": "All",
@@ -8700,10 +8700,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Default\\Pfk7411\\Pfk7411Page.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Membership/Account/Login/LoginPage.js",
       "AssetKind": "All",
@@ -8719,10 +8719,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Membership/Account/Login/LoginPage.js.map",
       "AssetKind": "All",
@@ -8738,10 +8738,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Membership\\Account\\Login\\LoginPage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Membership/Account/SignUp/SignUpPage.js",
       "AssetKind": "All",
@@ -8757,10 +8757,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js.map",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js.map",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "esm/Modules/Membership/Account/SignUp/SignUpPage.js.map",
       "AssetKind": "All",
@@ -8776,10 +8776,10 @@
       "OriginalItemSpec": "wwwroot\\esm\\Modules\\Membership\\Account\\SignUp\\SignUpPage.js.map"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\favicon.ico",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -8795,10 +8795,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\chartjs\\chart.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\chartjs\\chart.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "lib/chartjs/chart.js",
       "AssetKind": "All",
@@ -8814,10 +8814,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\chartjs\\chart.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\chartjs\\chart.min.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\chartjs\\chart.min.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "lib/chartjs/chart.min.js",
       "AssetKind": "All",
@@ -8833,10 +8833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\chartjs\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\moment.js\\moment.min.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\lib\\moment.js\\moment.min.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "lib/moment.js/moment.min.js",
       "AssetKind": "All",
@@ -8852,10 +8852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\moment.js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\datepicker\\bootstrap-datepicker.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\datepicker\\bootstrap-datepicker.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/datepicker/bootstrap-datepicker.js",
       "AssetKind": "All",
@@ -8871,10 +8871,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\datepicker\\bootstrap-datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\datepicker\\datepicker3.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\datepicker\\datepicker3.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/datepicker/datepicker3.css",
       "AssetKind": "All",
@@ -8890,10 +8890,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\datepicker\\datepicker3.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/daterangepicker/daterangepicker.js",
       "AssetKind": "All",
@@ -8909,10 +8909,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\daterangepicker\\daterangepicker.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker-bs3.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\daterangepicker\\daterangepicker-bs3.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/daterangepicker/daterangepicker-bs3.css",
       "AssetKind": "All",
@@ -8928,10 +8928,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\daterangepicker\\daterangepicker-bs3.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/fullcalendar/fullcalendar.css",
       "AssetKind": "All",
@@ -8947,10 +8947,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\fullcalendar\\fullcalendar.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/fullcalendar/fullcalendar.js",
       "AssetKind": "All",
@@ -8966,10 +8966,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\fullcalendar\\fullcalendar.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/fullcalendar/fullcalendar.min.css",
       "AssetKind": "All",
@@ -8985,10 +8985,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/fullcalendar/fullcalendar.min.js",
       "AssetKind": "All",
@@ -9004,10 +9004,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\fullcalendar\\fullcalendar.min.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.print.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\fullcalendar\\fullcalendar.print.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/fullcalendar/fullcalendar.print.css",
       "AssetKind": "All",
@@ -9023,10 +9023,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\fullcalendar\\fullcalendar.print.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.css",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.css",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/jvectormap/jquery-jvectormap-1.2.2.css",
       "AssetKind": "All",
@@ -9042,10 +9042,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.css"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.min.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/jvectormap/jquery-jvectormap-1.2.2.min.js",
       "AssetKind": "All",
@@ -9061,10 +9061,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-1.2.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-world-mill-en.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/jvectormap/jquery-jvectormap-world-mill-en.js",
       "AssetKind": "All",
@@ -9080,10 +9080,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\jvectormap\\jquery-jvectormap-world-mill-en.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\knob\\jquery.knob.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\knob\\jquery.knob.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/knob/jquery.knob.js",
       "AssetKind": "All",
@@ -9099,10 +9099,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\knob\\jquery.knob.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/sparkline/jquery.sparkline.js",
       "AssetKind": "All",
@@ -9118,10 +9118,10 @@
       "OriginalItemSpec": "wwwroot\\Scripts\\sparkline\\jquery.sparkline.js"
     },
     {
-      "Identity": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.min.js",
+      "Identity": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\Scripts\\sparkline\\jquery.sparkline.min.js",
       "SourceId": "SerenePSM.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MSI\\Downloads\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MSI\\Desktop\\SerenePSM\\SerenePSM\\SerenePSM.Web\\wwwroot\\",
       "BasePath": "_content/SerenePSM.Web",
       "RelativePath": "Scripts/sparkline/jquery.sparkline.min.js",
       "AssetKind": "All",

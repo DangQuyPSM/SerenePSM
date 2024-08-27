@@ -1,4 +1,5 @@
-﻿import { StringEditor, TextAreaEditor, IntegerEditor, DateEditor, EnumEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
+﻿import { PrefixedContext, initFormType } from "@serenity-is/corelib";
+import { StringEditor, TextAreaEditor, IntegerEditor, DateEditor, EnumEditor } from "serenity.corelib";
 import { MovieKind } from "../Modules/Default.Movie.MovieKind";
 
 export interface MovieForm {

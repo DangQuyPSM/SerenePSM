@@ -1,4 +1,5 @@
-﻿import { StringEditor, DecimalEditor, BooleanEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
+﻿import { PrefixedContext, initFormType } from "@serenity-is/corelib";
+import { StringEditor, DecimalEditor, BooleanEditor } from "serenity.corelib";
 
 export interface Pfk7231Form {
     MaterialName: StringEditor;

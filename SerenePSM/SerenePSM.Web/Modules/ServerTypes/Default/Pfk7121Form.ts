@@ -1,4 +1,5 @@
-﻿import { StringEditor, BooleanEditor, PrefixedContext, initFormType } from "@serenity-is/corelib";
+﻿import { PrefixedContext, initFormType } from "@serenity-is/corelib";
+import { StringEditor, BooleanEditor } from "serenity.corelib";
 
 export interface Pfk7121Form {
     ColorName: StringEditor;

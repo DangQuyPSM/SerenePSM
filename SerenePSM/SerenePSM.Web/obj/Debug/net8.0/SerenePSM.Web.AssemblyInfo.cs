@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerenePSM.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d7887ba2ed59376b853ad39c63b7dc3133153fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e35b1905afd715f48b9a89e68a6445d25edbffe2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerenePSM.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerenePSM.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
