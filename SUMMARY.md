@@ -1,8 +1,6 @@
 # Table of contents
 
 * [✍️ SERENITY](README.md)
-* [Page 5](page-5.md)
-* [Page 4](page-4.md)
 * [Chức năng lọc và mở rộng](chuc-nang-loc-va-mo-rong.md)
 * [Chức năng sửa](chuc-nang-sua.md)
 * [Chức năng xóa](chuc-nang-xoa.md)
