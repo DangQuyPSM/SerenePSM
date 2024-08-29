@@ -15,25 +15,18 @@ description: Các component cơ bản trong Serenity Platform
 * Configuration: Quản lý các cấu hình của ứng dụng, cho phép thay đổi cấu hình mà không cần chỉnh sửa code.
 * CoreServiceCollectionExtensions class:static AddAnnotationTypes, static AddCaching, static AddServiceResolver, static AddTextRegistry, static AddTypeSource.
 
+```
 public static class CoreServiceCollectionExtensions
-
-public class MyEventHandler : INotificationHandler\<SaveSuccessEvent>
-
+public class MyEventHandler : INotificationHandler<SaveSuccessEvent>
 {
-
-&#x20;   public Task Handle(SaveSuccessEvent notification)
-
-&#x20;   {
-
-&#x20;       // Xử lý sự kiện khi một bản ghi được lưu thành công
-
-&#x20;       Logger.Info("Record saved successfully: " + notification.EntityId);
-
-&#x20;       return Task.CompletedTask;
-
-&#x20;   }
-
+    public Task Handle(SaveSuccessEvent notification)
+    {
+        // Xử lý sự kiện khi một bản ghi được lưu thành công
+        Logger.Info("Record saved successfully: " + notification.EntityId);
+        return Task.CompletedTask;
+    }
 }
+```
 
 ### Serenity.Web: Component logic.
 
@@ -41,27 +34,19 @@ public class MyEventHandler : INotificationHandler\<SaveSuccessEvent>
 * Vai trò: Là cầu nối giữa ứng dụng và trình duyệt, xử lý các yêu cầu HTTP và tạo ra các phản hồi.
 * DynamicScriptServiceCollectionExtensions class: static AddContentHashCache, static AddDynamicScriptManager.
 
+```
 public static class DynamicScriptServiceCollectionExtensions
-
-\[PageAuthorize(typeof(RoleRow))]
-
+[PageAuthorize(typeof(RoleRow))]
 public class RolePage : Controller
-
 {
-
-&#x20;   \[Route("Administration/Role")]
-
-&#x20;   public ActionResult Index()
-
-&#x20;   {
-
-&#x20;       return this.GridPage("@/Administration/Role/RolePage",
-
-&#x20;           RoleRow.Fields.PageTitle());
-
-&#x20;   }
-
+    [Route("Administration/Role")]
+    public ActionResult Index()
+    {
+        return this.GridPage("@/Administration/Role/RolePage",
+            RoleRow.Fields.PageTitle());
+    }
 }
+```
 
 ### Serenity.Data: Component logic
 
@@ -69,26 +54,19 @@ public class RolePage : Controller
 * Vai trò: Là lớp trung gian giữa ứng dụng và cơ sở dữ liệu.
 * DataServiceCollectionExtensions class:static AddSqlConnections  (Thêm giao diện IConnectionStrings và ISqlConnections mặc định) (2 phương pháp).
 
+```
 public static class DataServiceCollectionExtensions
-
 public class OrderRepository : BaseRepository
-
 {
-
-&#x20;   public OrderRepository(IRequestContext context) : base(context) { }
-
-\
+    public OrderRepository(IRequestContext context) : base(context) { }
 
 
-&#x20;   public ListResponse\<MyRow> List(IDbConnection connection, ListRequest request)
-
-&#x20;   {
-
-&#x20;       return new MyListHandler().Process(connection, request);
-
-&#x20;   }
-
+    public ListResponse<MyRow> List(IDbConnection connection, ListRequest request)
+    {
+        return new MyListHandler().Process(connection, request);
+    }
 }
+```
 
 ### Serenity.Services: Component logic
 
@@ -96,23 +74,17 @@ public class OrderRepository : BaseRepository
 * Đăng ký tất cả trình xử lý yêu cầu tùy chỉnh triển khai giao diện IRequestHandler, từ nguồn loại trong bộ sưu tập dịch vụ nếu có hoặc sử dụng typeSource được cung cấp, tùy chọn lọc các loại trình xử lý thông qua một thuật ngữ được cung cấp.
 * ServiceCollectionExtensions class: static AddBaseTexts, static AddCustomRequestHandlers, static AddServiceHandlers.
 
+```
 public static class ServiceCollectionExtensions
-
-public interface IPfk7171ListHandler : IListHandler\<MyRow, MyRequest, MyResponse> { }
-
-public class Pfk7171ListHandler : ListRequestHandler\<MyRow, MyRequest, MyResponse>, IPfk7171ListHandler
-
+public interface IPfk7171ListHandler : IListHandler<MyRow, MyRequest, MyResponse> { }
+public class Pfk7171ListHandler : ListRequestHandler<MyRow, MyRequest, MyResponse>, IPfk7171ListHandler
 {
-
-&#x20;   public Pfk7171ListHandler(IRequestContext context)
-
-&#x20;           : base(context)
-
-&#x20;   {
-
-&#x20;   }
-
+    public Pfk7171ListHandler(IRequestContext context)
+            : base(context)
+    {
+    }
 }
+```
 
 ### Serenity.Entity: Component logic
 
@@ -121,21 +93,16 @@ public class Pfk7171ListHandler : ListRequestHandler\<MyRow, MyRequest, MyRespon
 * Thêm các loại chú thích, kết nối sql, sổ đăng ký loại hàng mặc định và nhà cung cấp trường hàng. Cảnh báo: Phương pháp này đặt nhà cung cấp trường hàng đơn lẻ làm mặc định bằng cách gọi RowFieldsProvider.SetDefault khi tạo.
 * EntityServiceCollectionExtensions class: static AddEntities.
 
+```
 public static class EntityServiceCollectionExtensions
-
 public static void AddEntities(this IServiceCollection services)
-
-&#x20;   {
-
-&#x20;       services.AddSqlConnections();
-
-&#x20;       services.AddAnnotationTypes();
-
-&#x20;       services.TryAddSingleton\<IRowTypeRegistry, DefaultRowTypeRegistry>();
-
-&#x20;       services.TryAddSingleton\<IRowFieldsProvider, DefaultRowFieldsProvider>();
-
-&#x20;   }
+    {
+        services.AddSqlConnections();
+        services.AddAnnotationTypes();
+        services.TryAddSingleton<IRowTypeRegistry, DefaultRowTypeRegistry>();
+        services.TryAddSingleton<IRowFieldsProvider, DefaultRowFieldsProvider>();
+    }
+```
 
 ### Serenity.UI: Component UI
 
@@ -184,15 +151,12 @@ Notification: Hiển thị các thông báo cho người dùng.
 
 let buttons = super.getToolbarButtons();
 
-\
-\[LookupScript]
-
-public class CustomerLookup : RowLookupScript\<MyRow>
-
+```
+[LookupScript]
+public class CustomerLookup : RowLookupScript<MyRow>
 {
-
-&#x20;  \[LookupEditor(typeof(Pfk7171FilteredLookup), InplaceAdd = true, DialogType = "Default.Pfk7171")]
-
+   [LookupEditor(typeof(Pfk7171FilteredLookup), InplaceAdd = true, DialogType = "Default.Pfk7171")]
 }
+```
 
-### Tham khảo thêm: [https://serenity.is/docs/framework/dependency-injection](https://serenity.is/docs/framework/dependency-injection)
+Tham khảo thêm: [https://serenity.is/docs/framework/dependency-injection](https://serenity.is/docs/framework/dependency-injection)

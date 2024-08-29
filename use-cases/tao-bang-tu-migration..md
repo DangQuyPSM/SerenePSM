@@ -1,6 +1,6 @@
 ---
-description: Migration
 icon: table-cells
+description: Migration
 ---
 
 # Tạo bảng từ Migration.
@@ -10,6 +10,10 @@ icon: table-cells
 {% endhint %}
 
 ### Mở Open Terminal trong dự án và nhập “dotnet sergen g”, sau đó chọn tên bảng từ CSDL muốn tạo và chọn All.
+
+```
+dotnet sergen g
+```
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXecYykBEU7sPiYOWJg0ByhmuLmrxQgsuIngRXPG7VnLNS6Yqbw8JE66QFCxvH56k6TuT1Jm1tBWdCs9bOtJknvKTTPHaxBIUt1jyUv7m3qqgy1qRlJfypeMWSKgkkl4R4E0M8JquGhVlRXkMlvSUpjXjmJ9iT2hXKZ0lJ0D2A?key=YCZZc6cavvO63WAAdUXzEA" alt=""><figcaption></figcaption></figure>
 

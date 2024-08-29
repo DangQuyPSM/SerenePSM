@@ -1,6 +1,6 @@
 ---
-description: Thuộc tính CSS
 icon: css3
+description: Thuộc tính CSS
 ---
 
 # Thuộc tính CSS.
@@ -13,14 +13,11 @@ icon: css3
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-.s-MyModuleName .add-button&#x20;
-
+```
+.s-MyModuleName .add-button 
 {
-
-&#x20;        background-color: #007bff;
-
-&#x20;        color: white;
-
-&#x20;        border-radius: 4px;
-
+         background-color: #007bff;
+         color: white;
+         border-radius: 4px;
 }
+```
