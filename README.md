@@ -148,6 +148,32 @@ Dưới đây là một số tổng quan về Serenity Platform:
 
 ### &#x20;     7.2. Chức năng thêm
 
-{% content-ref url="page-1.md" %}
-[page-1.md](page-1.md)
+{% content-ref url="chuc-nang-them.md" %}
+[chuc-nang-them.md](chuc-nang-them.md)
 {% endcontent-ref %}
+
+### &#x20;      7.3. Chức năng xóa
+
+{% content-ref url="chuc-nang-xoa.md" %}
+[chuc-nang-xoa.md](chuc-nang-xoa.md)
+{% endcontent-ref %}
+
+### &#x20;      7.4. Chức năng sửa
+
+{% content-ref url="chuc-nang-sua.md" %}
+[chuc-nang-sua.md](chuc-nang-sua.md)
+{% endcontent-ref %}
+
+### &#x20;      7.5. Chức năng lọc và mở rộng
+
+{% content-ref url="chuc-nang-loc-va-mo-rong.md" %}
+[chuc-nang-loc-va-mo-rong.md](chuc-nang-loc-va-mo-rong.md)
+{% endcontent-ref %}
+
+## 8. Các ứng dụng mở rộng và thực tiễn tốt nhất.
+
+* Khi làm việc với Serenity, cần áp dụng các chiến lược tối ưu và thực tiễn tốt nhất để đảm bảo hiệu quả phát triển. Các ứng dụng như StartSharp và Serene cung cấp các tính năng mở rộng hữu ích, giúp tăng cường khả năng tùy biến và linh hoạt.
+
+## 9. Kết luận
+
+* Serenity là một nền tảng linh hoạt, cung cấp đầy đủ các công cụ và thành phần cần thiết cho việc phát triển ứng dụng web. Bằng cách áp dụng đúng cách các thành phần và thực tiễn tốt nhất, bạn có thể tạo ra những ứng dụng chất lượng cao, dễ bảo trì và mở rộng.
